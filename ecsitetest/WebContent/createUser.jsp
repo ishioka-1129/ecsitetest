@@ -16,7 +16,9 @@
 
 	<div class="contents">
 
+	<div class="top">
 	<h1>ユーザー情報入力画面</h1>
+	</div>
 
 	<s:form action="CreateUserConfirmAction">
 		<table class="createUser-table">
@@ -167,8 +169,8 @@
 		</div>
 
 		</s:form>
-
 		</div>
+
 		<div class="clearfix"></div>
 
 	<s:include value="footer.jsp" />

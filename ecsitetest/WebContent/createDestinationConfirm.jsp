@@ -17,7 +17,7 @@
 		<h1>宛先情報確認画面</h1>
 		<s:form action="CreateDestinationCompleteAction">
 			<!-- <p>以下の内容で登録します</p> -->
-			<table class="destination-table">
+			<table class="destinstion-table2">
 				<tr>
 					<th scope="row" class="tag2"><s:label value="姓 : " /></th>
 					<td><s:property value="familyName" /><s:hidden name="familyName" value="%{familyName}"/></td>

@@ -72,7 +72,7 @@ function goResetPasswordAction(){
 			</td>
 		</tr>
 		<tr>
-			<th><s:submit value="ログイン" class="submit_btn" onclick="goLoginAction();"/>
+			<th><div class="aaa"><s:submit value="ログイン" class="submit_btn" onclick="goLoginAction();"/></div>
 		</th>
 		</table>
 	</s:form>

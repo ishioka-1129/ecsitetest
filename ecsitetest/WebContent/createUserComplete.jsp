@@ -15,7 +15,7 @@
 <body>
 
 	<s:include value="header.jsp" />
-	<div class="createUserComplete">
+	<div id="contents">
 		<h1>登録完了画面</h1>
 
 		<h2>ユーザー登録が完了しました。</h2>

@@ -43,7 +43,7 @@
 		<div class="submit_btn_box">
 			<div id=".contents-btn-set">
 			<s:form action="DeletePurchaseHistoryAction">
-				<s:submit value="削除" class="submit_btn" />
+				<s:submit value="削除" class="submit_btn1" />
 			</s:form>
 			</div>
 		</div>

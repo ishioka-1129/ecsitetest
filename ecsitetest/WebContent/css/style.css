@@ -185,7 +185,13 @@ body {
 	width:60%;
 	margin:50px auto 70px;
 	padding:10px 20px;
-	min-width:600px;
+}
+
+#contents2 {
+	text-align:center;
+	width:100%;
+	margin:50px auto 70px;
+	padding:10px 20px;
 }
 
 .login-table {
@@ -196,6 +202,52 @@ body {
     text-align: right;
 }
 
+.aaa {
+	margin-left:87%;
+}
+
 #contents-btn-set {
 	margin-top:15px;
+}
+
+.vertical-list-table{
+	margin-left:35%;
+}
+
+.horizontal-list-table {
+	margin-left:28%;
+}
+
+.submit_btn1 {
+	margin-top:10px;
+}
+
+.destinstion-table {
+	margin-left:20%;
+}
+
+.destinstion-table2 {
+	margin-left:25%;
+}
+
+.destinstion-table2 th {
+	text-align:right;
+}
+
+.error-message {
+	color:red;
+}
+
+.createUser-table {
+	text-align:center;
+	margin:0 auto;
+}
+
+.createUser-table th {
+	text-align:right;
+}
+
+.submit_btn_box1 {
+	text-align:center;
+	margin:10px auto;
 }

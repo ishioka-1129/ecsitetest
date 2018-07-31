@@ -15,7 +15,7 @@
 <body>
 
 	<jsp:include page="header.jsp" />
-	<div id="contents">
+	<div id="contents2">
 		<h1>決済確認画面</h1>
 		<div class="info">
 			送り先情報を選択してください
@@ -65,7 +65,7 @@
 
 	<div class="submit_btn_box">
 		<div id=".contents-btn-set">
-			<s:submit value="決済" class="submit_btn"/>
+			<s:submit value="決済" class="submit_btn1"/>
 		</div>
 	</div>
 	</s:form>
@@ -73,7 +73,7 @@
 	<div class="submit_btn_box">
 	<div id=".contents-btn-set">
 	<s:form action="CreateDestinationAction">
-		<s:submit value="新規登録" class="submit_btn" />
+		<s:submit value="新規登録" class="submit_btn1" />
 	</s:form>
 	</div>
 	</div>

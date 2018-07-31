@@ -17,8 +17,9 @@
 	<s:include value="header.jsp" />
 	<div class="contents">
 
+	<div class="top">
 		<h1>登録内容確認画面</h1>
-
+	</div>
 		<s:form id="form" action="CreateUserCompleteAction">
 			<table class="createUser-table">
 				<tr>

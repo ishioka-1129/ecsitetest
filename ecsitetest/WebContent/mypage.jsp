@@ -44,7 +44,7 @@
 		</tr>
 	</table>
 	<div class="submit_btn_box">
-	<s:submit value="購入履歴" class="submit_btn" />
+	<s:submit value="購入履歴" class="submit_btn1" />
 	</div>
 	</s:form>
 </div>
